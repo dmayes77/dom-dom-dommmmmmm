@@ -1,0 +1,17 @@
+.black-square {
+	background-color: black;
+	width: 200px;
+	height: 200px;
+	margin: 0.25rem;
+	text-align: center;
+	float: left;
+}
+
+span {
+	color: white;
+	font-size: 5em;
+	margin: auto;
+	top: 25%;
+	text-align: center;
+	position: relative;
+}
